@@ -1,0 +1,15 @@
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\bin\Debug\net6.0\FIRSTPRAC.exe
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\bin\Debug\net6.0\FIRSTPRAC.deps.json
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\bin\Debug\net6.0\FIRSTPRAC.runtimeconfig.json
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\bin\Debug\net6.0\FIRSTPRAC.dll
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\bin\Debug\net6.0\FIRSTPRAC.pdb
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.csproj.AssemblyReference.cache
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.AssemblyInfoInputs.cache
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.AssemblyInfo.cs
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.csproj.CoreCompileInputs.cache
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.dll
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\refint\FIRSTPRAC.dll
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.pdb
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\FIRSTPRAC.genruntimeconfig.cache
+C:\Users\Diya\source\repos\FIRSTPRAC\FIRSTPRAC\obj\Debug\net6.0\ref\FIRSTPRAC.dll

@@ -1,0 +1,10 @@
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.csproj.AssemblyReference.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac_7.Form1.resources
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.csproj.GenerateResource.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.AssemblyInfoInputs.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.AssemblyInfo.cs
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.csproj.CoreCompileInputs.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.RazorAssemblyInfo.cache
+C:\Users\Diya\source\repos\Prac-7\Prac-7\obj\Debug\net6.0\Prac-7.RazorAssemblyInfo.cs

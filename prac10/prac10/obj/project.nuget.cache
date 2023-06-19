@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6cYaasVIq4mPTv1eTBkL3ruhp45QjzpyAD0ASXVBc+VVSIhdVpRy6Clro5ZUxaYdy/7CAEq3JNp/qEzf3R5OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diya\\source\\repos\\prac10\\prac10\\prac10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

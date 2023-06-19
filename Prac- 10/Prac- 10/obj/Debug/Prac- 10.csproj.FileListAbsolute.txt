@@ -1,0 +1,2 @@
+C:\Users\Diya\source\repos\Prac- 10\Prac- 10\obj\Debug\Prac- 10.csproj.AssemblyReference.cache
+C:\Users\Diya\source\repos\Prac- 10\Prac- 10\obj\Debug\Prac- 10.csproj.CoreCompileInputs.cache

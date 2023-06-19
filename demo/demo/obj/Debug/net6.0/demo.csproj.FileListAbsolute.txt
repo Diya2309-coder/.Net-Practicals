@@ -1,0 +1,15 @@
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Diya\source\repos\demo\demo\bin\Debug\net6.0\demo.exe
+C:\Users\Diya\source\repos\demo\demo\bin\Debug\net6.0\demo.deps.json
+C:\Users\Diya\source\repos\demo\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\Diya\source\repos\demo\demo\bin\Debug\net6.0\demo.dll
+C:\Users\Diya\source\repos\demo\demo\bin\Debug\net6.0\demo.pdb
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.dll
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\refint\demo.dll
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.pdb
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+C:\Users\Diya\source\repos\demo\demo\obj\Debug\net6.0\ref\demo.dll

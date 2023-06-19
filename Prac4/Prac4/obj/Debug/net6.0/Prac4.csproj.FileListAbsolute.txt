@@ -1,0 +1,15 @@
+C:\Users\Diya\source\repos\Prac4\Prac4\bin\Debug\net6.0\Prac4.exe
+C:\Users\Diya\source\repos\Prac4\Prac4\bin\Debug\net6.0\Prac4.deps.json
+C:\Users\Diya\source\repos\Prac4\Prac4\bin\Debug\net6.0\Prac4.runtimeconfig.json
+C:\Users\Diya\source\repos\Prac4\Prac4\bin\Debug\net6.0\Prac4.dll
+C:\Users\Diya\source\repos\Prac4\Prac4\bin\Debug\net6.0\Prac4.pdb
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.csproj.AssemblyReference.cache
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.AssemblyInfoInputs.cache
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.AssemblyInfo.cs
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.csproj.CoreCompileInputs.cache
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.dll
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\refint\Prac4.dll
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.pdb
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\Prac4.genruntimeconfig.cache
+C:\Users\Diya\source\repos\Prac4\Prac4\obj\Debug\net6.0\ref\Prac4.dll

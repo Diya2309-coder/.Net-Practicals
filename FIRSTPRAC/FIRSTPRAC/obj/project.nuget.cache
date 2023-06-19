@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkY/8JVQvWb+7TR9vws4NEte0ZzFTUSlAJVtWLJQVqwgrU2RaU0aXHxTPJ+SOTm1pOk4xsvouMoUX3bnQJ7reg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diya\\source\\repos\\FIRSTPRAC\\FIRSTPRAC\\FIRSTPRAC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
