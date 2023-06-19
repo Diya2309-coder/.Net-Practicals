@@ -1,8 +1,0 @@
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.csproj.AssemblyReference.cache
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.Form1.resources
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.Form2.resources
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.csproj.GenerateResource.cache
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.AssemblyInfoInputs.cache
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.AssemblyInfo.cs
-C:\Users\Diya\source\repos\Dialogue\Dialogue\obj\Debug\net6.0-windows\Dialogue.csproj.CoreCompileInputs.cache

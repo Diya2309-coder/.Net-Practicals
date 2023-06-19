@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "N7w/l+AZhceoLoPwMyz3xLmI/hsLdVSUhJRkZebwo5C2ZiMc8yFl7RwoQ0LZWasYc0Elhw0nvBYss1ji/EFqyw==",
+  "dgSpecHash": "YzVKbcTLyz0BZu7tGxJpwWRED8ngQFg6f1Bz9Qj5TbK6OGGECdKU845Rxpzo1UgDWA6ITgArnLSGfeFIPC0jtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diya\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Diya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
